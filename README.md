@@ -114,13 +114,3 @@ Everything worked on in this lab is found under AD domain (JosephMinton.local)
 <img src="https://i.imgur.com/7xqkbvQ.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight alt="Disk Sanitization Steps"/>
 <br />
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
