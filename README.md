@@ -27,7 +27,7 @@ This project demonstrates the deployment of a Windows Server Active Directory en
 
 <p align="center">
 Enviornment Setup: <br/>
-<img src="https://i.imgur.com/UILWFbG.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UILWFbG.png" alt="Disk Sanitization Steps"/>
 <br />
 
 - <b>Installed Windows Server in a virtual machine to provide a controlled environment for Active Directory testing.</b> 
@@ -38,7 +38,7 @@ Azure Active Directory is Microsoft’s cloud-based identity and access manageme
  
  <br/>
  First look of Active Directory  <br/>
-<img src="https://i.imgur.com/Ln6tg4z.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight); alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ln6tg4z.png" alt="Disk Sanitization Steps"/>
 <br />
 
 An Organizational Unit (OU) is a container in Active Directory that organizes users, computers, and groups, making administration and Group Policy management easier without changing security boundaries.
@@ -53,7 +53,7 @@ Everything worked on in this lab is found under AD domain (JosephMinton.local)
 </ul>
 <br/>
  Adding the primary OUs  <br/>
-<img src="https://i.imgur.com/uYsJayZ.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uYsJayZ.png" alt="Disk Sanitization Steps"/>
 <br />
 <h2>II. Create user accounts and groups within these OUs.</h2>
 <p>Add the following groups: Users, Computers, and Servers.</p>
@@ -85,7 +85,7 @@ Everything worked on in this lab is found under AD domain (JosephMinton.local)
 <p>When creating a new group inside an OU for example Users, you can name the group but you also have the option of selecting the Group scope and Group type. Avoid naming conflicts: groups and OUs can share names in different OUs, but objects within the same container must have unique names. </p>
  <br/>
  Creating a new Object Group  <br/>
-<img src="https://i.imgur.com/zUlWxbz.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zUlWxbz.png" alt="Disk Sanitization Steps"/>
 <br />
 <h2>Group Scope</h2>
 <p>Active Directory groups have three scope options that determine where the group can be used and what it can contain:</p>
@@ -111,6 +111,6 @@ Everything worked on in this lab is found under AD domain (JosephMinton.local)
 <p>Department based OUs were created to simplify user administration and support future Group Policy assignment.</p>
  <br/>
  Brief visual of the final result  <br/>
-<img src="https://i.imgur.com/7xqkbvQ.png" 'Width:', img.naturalWidth, 'Height:', img.naturalHeight alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7xqkbvQ.png" alt="Disk Sanitization Steps"/>
 <br />
 </p>
