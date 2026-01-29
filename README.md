@@ -114,3 +114,12 @@ Everything worked on in this lab is found under AD domain (JosephMinton.local)
 <img src="https://i.imgur.com/7xqkbvQ.png" alt="Disk Sanitization Steps"/>
 <br />
 </p>
+
+<h1>Key Takeaways</h1>
+<ul>
+<li><strong>Gained hands-on experience promoting a Windows Server to a Domain Controller and configuring core AD services.</li>
+<li><strong>Designed and implemented a structured OU hierarchy based on geography and departments to support scalable administration.</li>
+<li><strong>Created and managed user accounts, computers, servers, and groups within appropriate OUs.</li>
+<li><strong>Applied Active Directory best practices by using Global Security Groups for department-based role assignment.</li>
+ 
+</ul>
